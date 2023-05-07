@@ -1,7 +1,7 @@
 *,
 *::before,
 *::after {
-  background-color: #1a1a1a;
+  background-color: #131417;
   color: white;
   box-sizing: border-box;
   margin: 0;
@@ -12,14 +12,6 @@
 @font-face {
   font-family: Hapna;
   src: url(../assets/fonts/hapna.woff2) format("woff2"), url(../assets/fonts/hapna.woff) format("woff"), url(../assets/fonts/hapna.ttf) format("truetype");
-  font-style: normal;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-}
-
-@font-face {
-  font-family: RDRLino;
-  src: url(../assets/fonts/RDRLino-Regular.woff2) format("woff2"), url(../assets/fonts/RDRLino-Regular.woff) format("woff"), url(../assets/fonts/RDRLino-Regular.ttf) format("truetype");
   font-style: normal;
   font-weight: 400;
   text-rendering: optimizeLegibility;
